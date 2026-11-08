@@ -1,5 +1,5 @@
 # Linux Driver
-
+This driver integrates mouse functionality and VGA display for an emulated i386 Linux system.
 
 
 An example program `main.cpp` is included in this repository.
@@ -8,6 +8,7 @@ An example program `main.cpp` is included in this repository.
 
 This directory contains:
 - A *src* directory, containing all the source code.
+- *DOSBox_tools* directory, containing the zipped DOSBox environment.
 
 
 ## Prerequisites
